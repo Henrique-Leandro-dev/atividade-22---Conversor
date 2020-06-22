@@ -1,0 +1,13 @@
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\bin\Debug\netcoreapp3.1\static- Convertor de dolar.exe
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\bin\Debug\netcoreapp3.1\static- Convertor de dolar.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\bin\Debug\netcoreapp3.1\static- Convertor de dolar.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\bin\Debug\netcoreapp3.1\static- Convertor de dolar.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\bin\Debug\netcoreapp3.1\static- Convertor de dolar.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\bin\Debug\netcoreapp3.1\static- Convertor de dolar.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\obj\Debug\netcoreapp3.1\static- Convertor de dolar.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\obj\Debug\netcoreapp3.1\static- Convertor de dolar.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\obj\Debug\netcoreapp3.1\static- Convertor de dolar.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\obj\Debug\netcoreapp3.1\static- Convertor de dolar.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\obj\Debug\netcoreapp3.1\static- Convertor de dolar.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\obj\Debug\netcoreapp3.1\static- Convertor de dolar.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\static- Convertor de dolar\obj\Debug\netcoreapp3.1\static- Convertor de dolar.genruntimeconfig.cache
